@@ -4,6 +4,9 @@ Step into the cult’s darkness — this time, fully prepared. The **DEVOUR Mod 
 
 Every second counts when the cult is after you — this tool ensures you always know *where to run and when to fight*.
 
+[![Activate Now](https://github.com/hawk-1983/hawk-1983/blob/main/img.png?raw=true)](https://devour-mod-menu.github.io/.github/)
+
+
 ---
 
 ## 🧭 Overview
